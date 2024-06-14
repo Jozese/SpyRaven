@@ -1,7 +1,7 @@
 # SpyRaven
 
 <div style="display:flex; justify-content:center;">
-  <img src="resources/Screenshot1.png" alt="First Screenshot" width="400" height="auto" style="margin-right: 20px;">
+  <img src="resources/Screenshot.png" alt="First Screenshot" width="400" height="auto" style="margin-right: 20px;">
   <img src="resources/Screenshot2.png" alt="Second Screenshot" width="400" height="auto">
 </div>
 
